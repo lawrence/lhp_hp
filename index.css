@@ -1,0 +1,33 @@
+html,body {
+  height: 100%;
+  width: 100%;
+}
+
+.button {
+  margin-bottom: 10px;
+}
+
+.container {
+  padding: 32px;
+  margin-bottom: 16px;
+  margin-top:10px;
+}
+
+h2 {
+  font-size: 2em;
+  color: white;
+}
+
+h6 {
+  color: white;
+}
+
+#aside {
+  background: #1f8dd6;
+  margin: 1em 0;
+  padding: 2em 1em;
+  border-radius: 3px;
+  color: #fff;
+  border: 3px;
+  border-color: gray;
+}
